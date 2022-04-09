@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\bin\Debug\ControleDeJogos.exe.config
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\bin\Debug\ControleDeJogos.exe
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\bin\Debug\ControleDeJogos.pdb
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\obj\Debug\ControleDeJogos.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\obj\Debug\ControleDeJogos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\obj\Debug\ControleDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\obj\Debug\ControleDeJogos.exe
+C:\Users\Caetano\source\repos\ControleDeJogos\ControleDeJogos\obj\Debug\ControleDeJogos.pdb
